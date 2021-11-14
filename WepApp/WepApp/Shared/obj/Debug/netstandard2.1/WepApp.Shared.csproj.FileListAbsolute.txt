@@ -1,0 +1,9 @@
+E:\Assignment12\WepApp\WepApp\Shared\bin\Debug\netstandard2.1\WepApp.Shared.deps.json
+E:\Assignment12\WepApp\WepApp\Shared\bin\Debug\netstandard2.1\WepApp.Shared.dll
+E:\Assignment12\WepApp\WepApp\Shared\bin\Debug\netstandard2.1\WepApp.Shared.pdb
+E:\Assignment12\WepApp\WepApp\Shared\obj\Debug\netstandard2.1\WepApp.Shared.csprojAssemblyReference.cache
+E:\Assignment12\WepApp\WepApp\Shared\obj\Debug\netstandard2.1\WepApp.Shared.AssemblyInfoInputs.cache
+E:\Assignment12\WepApp\WepApp\Shared\obj\Debug\netstandard2.1\WepApp.Shared.AssemblyInfo.cs
+E:\Assignment12\WepApp\WepApp\Shared\obj\Debug\netstandard2.1\WepApp.Shared.csproj.CoreCompileInputs.cache
+E:\Assignment12\WepApp\WepApp\Shared\obj\Debug\netstandard2.1\WepApp.Shared.dll
+E:\Assignment12\WepApp\WepApp\Shared\obj\Debug\netstandard2.1\WepApp.Shared.pdb

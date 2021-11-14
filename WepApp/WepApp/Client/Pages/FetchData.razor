@@ -1,0 +1,31 @@
+@page "/fetchdata"
+@using WepApp.Client.Model
+@inject HttpClient Http
+
+<h1>Weather forecast</h1>
+
+<p>This component demonstrates the maximum and minimum value fetching data from the server.</p>
+
+@if (forecasts == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    
+            @foreach (var forecast in forecasts)
+            {
+               <div><bold>@forecast.Key</bold> @forecast.Value</div>
+            }
+      
+}
+
+@code {
+    private Dictionary<string, string> forecasts { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await Http.GetFromJsonAsync<Dictionary<string, string>>("FetchData");
+    }
+
+}
