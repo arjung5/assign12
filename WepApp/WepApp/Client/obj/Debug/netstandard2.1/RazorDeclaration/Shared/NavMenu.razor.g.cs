@@ -83,7 +83,7 @@ using WepApp.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "E:\Assignment12\WepApp\WepApp\Client\Shared\NavMenu.razor"
+#line 23 "E:\Assignment12\WepApp\WepApp\Client\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

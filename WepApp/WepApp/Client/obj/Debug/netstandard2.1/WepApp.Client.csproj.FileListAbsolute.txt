@@ -157,7 +157,6 @@ E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\WepApp.Client.Asse
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\WepApp.Client.csproj.CoreCompileInputs.cache
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\WepApp.Client.RazorComponent.input.cache
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
-E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
@@ -170,7 +169,6 @@ E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\WepApp.Client.TagH
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\WepApp.Client.TagHelpers.output.cache
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\WepApp.Client.RazorCoreGenerate.cache
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
-E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
@@ -357,6 +355,6 @@ E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\WepApp.Client.Razo
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\WepApp.Client.csproj.CopyComplete
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\WepApp.Client.dll
 E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\WepApp.Client.pdb
-E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\integrity\GsQRq9RdRxsjkbKWW27Svp2nIZQefndvHLEpCpkmLgY=.hash
-E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\integrity\wDLkIrzBnxjbvtUjaPnZ8jkGBSzs75qkIZSmOkUQB3U=.hash
-E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\integrity\qSHDJnP_HusSnuEyykQye--Jbp22ep0OUNNxB82dhbE=.hash
+E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\integrity\GEZ6bFCH8BGQgx88DHswVC1kXwxwHSCy27vQ6uq99l8=.hash
+E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\integrity\dz_bTPGyXt9Op6qbG-OncCNVvD3rHcNZGnzjIcaCs-U=.hash
+E:\Assignment12\WepApp\WepApp\Client\obj\Debug\netstandard2.1\integrity\UgqnIoqNE2bO99ihV7VVjRVqHFd_2M-J8z-WYIY8MOA=.hash
